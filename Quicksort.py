@@ -17,7 +17,6 @@ def Quick(theSeq):
 seq=[10,23,51,18,4,31,5,13]
 print(Quick(seq))        
 
-
         
 
 
